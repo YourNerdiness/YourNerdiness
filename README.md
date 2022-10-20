@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YourNerdiness
-- 👀 I’m interested in Java and Web Dev.
-- 🌱 I’m currently learning SQL.
+- 👀 I’m interested in decentralisation.
+- 🌱 I’m currently learning networking.
 
 <!---
 YourNerdiness/YourNerdiness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
